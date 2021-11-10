@@ -1,0 +1,87 @@
+body{
+    background: url(https://fondosmil.com/fondo/63471.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif
+}
+h1{
+    text-align: center;
+    color: rgb(12, 247, 12);
+}
+summary{
+    text-align: ;
+    color: rgb(222, 241, 248);
+
+}
+p{
+    text-align: ;
+    color: rgb(224, 198, 222);
+
+}
+img{
+    float: left;
+    margin: 40px;
+    margin-left: 2%;
+}
+.op{
+    margin:0px;
+}
+body{
+    font-family: sans-serif;
+}
+nav{
+    /*outline: 1px solid black;*/
+}
+ul{
+    /*outline: 1px solid blue;*/
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(6, 9, 12, 0.87);
+    line-height: 40px;
+    overflow: auto;
+}
+li{
+    /*outline: 1px solid green;*/
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    /*outline: 1px solid blueviolet;*/
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(244, 252, 252);
+}
+a:hover{
+    background-color: #1a73f9;
+    color: #000;
+    }S
+.hear{
+        background-color: red;
+        float: left;
+        height: 40px;
+        width: 100%;
+    }
+    nav{
+        /*outline: 1px solid blueviolet;*/
+    }
+    ul{
+        /*outline: 1px solid blue;*/
+        line-height: 40px;
+        padding: 0;
+        margin: 0;
+        background-color: #9e9e4f;
+        line-height: 40px;
+        overflow: auto;
+    }
+    li{
+        /*outline: 1px solid greenyellow;*/
+        width: 320px;
+        display: inline-block;
+        text-align: center;
+    
+    }

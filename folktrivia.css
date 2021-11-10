@@ -1,0 +1,94 @@
+body{
+    background: url(https://static.vecteezy.com/system/resources/previews/002/625/390/non_2x/dark-blue-backdrop-with-rectangles-modern-design-with-rectangles-in-abstract-style-pattern-for-websites-landing-pages-vector.jpg);
+    font-family: 'Indie Flower', cursive;
+}
+
+.container{
+    background-color: whitesmoke;
+    margin: 20px auto 0 auto;
+    width: 500px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    height: 500px;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(39, 25, 104);
+}
+.card{
+    height: 450px;
+}
+.pregunta_nombre{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(27, 14, 87);
+}
+.pregunta_contenido{
+    padding: 20px
+}
+.pregunta_enunciado{
+    text-align: justify;
+    height: 30px;
+}
+.pregunta_alternativas{
+    height: 50px;
+    line-height: 1.3;
+}
+.pregunta_alternativas button{
+    display: block;
+    margin: 5px auto;
+    font-size: 1rem;
+    width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 2px;
+    background-color: rgb(68, 54, 201);
+    border: none;
+}
+.pregunta_alternativas button:hover{
+    background-color: rgb(75, 133, 105);
+}
+.avance{
+    vertical-align: bottom;
+}
+#barra-progreso{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagenj{
+    background: url(http://3.bp.blogspot.com/-6SuH0KVt2Oc/Uwsfze4yHVI/AAAAAAAAARY/Eh2mTNKigT0/s1600/descarga+%252828%2529.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    margin: auto;
+    width: 200px;
+    height: 160px;
+
+
+}
+#estilo-demasiado{
+    color: greenyellow;
+    font-weight: 600;
+}
+#estilo-losuficiente{
+    color: rgb(98, 59, 131);
+    font-weight: 600;
+}
+#estilo-lobasico{
+    color: rgb(92, 33, 84);
+    font-weight: 600;
+}
+#estilo-lominimo{
+    color: greenyellow;
+    font-weight: 600;
+}
+#estilo-cero{
+    color: greenyellow;
+    font-weight: 600;
+}
+.resultado_obtenido{
+    padding-top: 50px;
+}
+.resultado_título{
+    margin-left: 100px;
+}

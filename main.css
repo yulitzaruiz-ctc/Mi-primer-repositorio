@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+    background: url(https://www.ecured.cu/images/thumb/7/7f/Monta%C3%B1a00.jpg/1200px-Monta%C3%B1a00.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: inherit;
+    width: 100%;
+    height: 100%;
+
+}
+nav{
+    /*outline: 1px solid black;*/
+}
+ul{
+    /*outline: 1px solid blue;*/
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgba(6, 9, 12, 0.87);
+    line-height: 40px;
+    overflow: auto;
+}
+li{
+    /*outline: 1px solid green;*/
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    /*outline: 1px solid blueviolet;*/
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(244, 252, 252);
+}
+a:hover{
+    background-color: #f9a91a;
+    color: #000;
